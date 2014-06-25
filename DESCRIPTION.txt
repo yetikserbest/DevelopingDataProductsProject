@@ -1,0 +1,8 @@
+Title: Estimation of Miles Per Gallon for Cars
+Author: Yetik Serbest
+AuthorUrl: http://www.rstudio.com/
+License: GPL-3
+DisplayMode: Showcase
+Tags: getting-started
+Type: Shiny
+
